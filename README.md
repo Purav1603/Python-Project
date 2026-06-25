@@ -23,14 +23,16 @@ The Menu will be like:
 4.save books to file 
 5.Exit
 
-**#Files:**
-
-- main.py - The entry point of the software and the menu
-- book.py - This file contains the Book class
-- member.py - This file contains the Member class
-- librarian.py - This file contains the librarian class
-- library.py - This file contains the Library class it handles the the file storage
-- books.csv - This file saves the books records
+**#Project Structure:**
+your-repo/
+│
+├── main.py           - Menu and the code that ties all the class together
+├── Book.py           - This files contains the Book class
+├── Member.py         - This File contains the Member class 
+├── Librarian.py      - This file contains the  Librarian class 
+├── Library.py        - This file contains the Library class like the books, members and librarian 
+├── Books.csv         - This file saves the books data
+└── README.md         - This file contains the Project description 
 
   **Student Name:** Purav Satish
   **Student ID:** GH1050052
