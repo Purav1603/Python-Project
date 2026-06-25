@@ -24,15 +24,15 @@ The Menu will be like:
 5.Exit
 
 **#Project Structure:**
-your-repo/
-│
-├── main.py           - Menu and the code that ties all the class together
-├── Book.py           - This files contains the Book class
-├── Member.py         - This File contains the Member class 
-├── Librarian.py      - This file contains the  Librarian class 
-├── Library.py        - This file contains the Library class like the books, members and librarian 
-├── Books.csv         - This file saves the books data
-└── README.md         - This file contains the Project description 
+
+
+- main.py           - Menu and the code that ties all the class together
+- Book.py           - This files contains the Book class
+- Member.py         - This File contains the Member class 
+- Librarian.py      - This file contains the  Librarian class 
+- Library.py        - This file contains the Library class like the books, members and librarian 
+- Books.csv         - This file saves the books data
+- README.md         - This file contains the Project description 
 
   **Student Name:** Purav Satish
   **Student ID:** GH1050052
